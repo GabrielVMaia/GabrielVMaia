@@ -1,4 +1,4 @@
-<h2>Oi 👋! Eu sou o 1lordduck — Pentester do Brasil! 🇧🇷</h2>
+<h2>Oi 👋! Eu sou o Gabriel Maia!</h2>
 
 ---
 
