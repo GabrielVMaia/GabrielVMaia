@@ -9,11 +9,10 @@ Sou especializado em:
 - 🕸️ Segurança Web & Avaliação de Vulnerabilidades  
 - 🧬 Exploração de Binários & Engenharia Reversa  
 - 🧪 Ferramentas de Red Team & Exploits Personalizados  
-- ☁️ Infraestrutura Web e Plataformas em Nuvem
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🧰 Techstack
 
 ![Code-JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
 ![Code-TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&color=3178C6)
