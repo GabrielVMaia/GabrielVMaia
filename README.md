@@ -5,7 +5,7 @@
 🧠 **Sobre mim**
 
 Tenho 17 anos e atuo de forma independente em projetos e comunidades voltados à segurança da informação.  
-Sou fascinado por entender sistemas no nível mais baixo possível — desmontando, explorando e reconstruindo.  
+Sou fascinado por entender sistemas no nível mais baixo possível.
 Trabalho principalmente com C, C++, Assembly e Python, com foco em:
 
 - 🔐 Pentest & Hacking Ético  
