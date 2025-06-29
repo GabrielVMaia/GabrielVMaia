@@ -1,16 +1,15 @@
-## Hi there 👋
+<h2>Olá 👋 Eu sou o Gabriel Vinícius</h2>
 
-<!--
-**GabrielVMaia/GabrielVMaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🧠 **Sobre mim**
+  
+Sou fascinado por entender sistemas no nível mais baixo possível.
+Trabalho principalmente com C, C++, Assembly e Python, com foco em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔐 Pentest & Hacking Ético  
+- 🕸️ Segurança Web  
+- ⚙️ Engenharia Reversa & Exploração de Binários  
+- 🧪 Ferramentas de Red Team
+
+Apesar do meu foco principal ser em cibersegurança, também tenho interesse por outras áreas da tecnologia. Gosto de explorar desenvolvimento web, programação de baixo nível, automação e outras disciplinas como hobby e forma de aprendizado constante.
